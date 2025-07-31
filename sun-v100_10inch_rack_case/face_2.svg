@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.46939052"
-     inkscape:cx="348.32403"
-     inkscape:cy="777.60411"
+     inkscape:zoom="0.33190922"
+     inkscape:cx="567.92637"
+     inkscape:cy="563.40707"
      inkscape:window-width="1916"
-     inkscape:window-height="1053"
+     inkscape:window-height="1173"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -40,54 +40,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g27182"
-       transform="translate(-19.738946,-12.983362)">
-      <path
-         id="Part__Part2DObjectPython003_w0000"
-         d="M 24.953918,16.875236 V 236.87523 H 274.95391 V 16.875236 H 24.953918"
-         stroke="#f1f3f5"
-         stroke-width="0.7 px"
-         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         cx="33.953918"
-         cy="-25.875237"
-         r="1.5"
-         stroke="#f1f3f5"
-         stroke-width="0.7 px"
-         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle3"
-         transform="scale(1,-1)" />
-      <circle
-         cx="265.95392"
-         cy="-25.875237"
-         r="1.5"
-         stroke="#f1f3f5"
-         stroke-width="0.7 px"
-         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle5"
-         transform="scale(1,-1)" />
-      <circle
-         cx="265.95392"
-         cy="-216.87523"
-         r="1.5"
-         stroke="#f1f3f5"
-         stroke-width="0.7 px"
-         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle7"
-         transform="scale(1,-1)" />
-      <circle
-         cx="33.953918"
-         cy="-216.87523"
-         r="1.5"
-         stroke="#f1f3f5"
-         stroke-width="0.7 px"
-         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle9"
-         transform="scale(1,-1)" />
-    </g>
-    <g
        id="g24873"
-       transform="rotate(90,-27.449279,253.47807)">
+       transform="rotate(-90,165.72807,160.58927)">
       <path
          id="Part__Part2DObjectPython001_w0000"
          d="m 0.445,220.445 h 44.5 v -220 h -44.5 v 220"
@@ -324,6 +278,52 @@
            stroke-width="0.7 px"
            style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
+    </g>
+    <g
+       id="g17363"
+       transform="translate(-1.9831848,-1.0797033)">
+      <path
+         id="Part__Part2DObjectPython_w0000-3"
+         d="m 6.99156,4.77015 v 220 h 250 v -220 h -250"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         cx="17.99156"
+         cy="-15.77015"
+         r="1.5"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle319"
+         transform="scale(1,-1)" />
+      <circle
+         cx="245.99156"
+         cy="-15.77015"
+         r="1.5"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle321"
+         transform="scale(1,-1)" />
+      <circle
+         cx="245.99156"
+         cy="-204.77016"
+         r="1.5"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle323"
+         transform="scale(1,-1)" />
+      <circle
+         cx="17.99156"
+         cy="-204.77016"
+         r="1.5"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle325"
+         transform="scale(1,-1)" />
     </g>
   </g>
 </svg>
