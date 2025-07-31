@@ -47,14 +47,14 @@
          d="m 6.99156,4.77015 v 220 h 250 v -220 h -250"
          stroke="#f1f3f5"
          stroke-width="0.7 px"
-         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          cx="17.99156"
          cy="-15.77015"
          r="1.5"
          stroke="#f1f3f5"
          stroke-width="0.7 px"
-         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle319"
          transform="scale(1,-1)" />
       <circle
@@ -63,7 +63,7 @@
          r="1.5"
          stroke="#f1f3f5"
          stroke-width="0.7 px"
-         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle321"
          transform="scale(1,-1)" />
       <circle
@@ -72,7 +72,7 @@
          r="1.5"
          stroke="#f1f3f5"
          stroke-width="0.7 px"
-         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle323"
          transform="scale(1,-1)" />
       <circle
@@ -81,7 +81,7 @@
          r="1.5"
          stroke="#f1f3f5"
          stroke-width="0.7 px"
-         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle325"
          transform="scale(1,-1)" />
     </g>
@@ -93,14 +93,14 @@
          d="m 0.445,220.445 h 44.5 v -220 h -44.5 v 220"
          stroke="#f1f3f5"
          stroke-width="0.7 px"
-         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          cx="7.4450002"
          cy="-11.445007"
          r="1.5"
          stroke="#f1f3f5"
          stroke-width="0.7 px"
-         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle9750"
          transform="scale(1,-1)" />
       <circle
@@ -109,7 +109,7 @@
          r="1.5"
          stroke="#f1f3f5"
          stroke-width="0.7 px"
-         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle9752"
          transform="scale(1,-1)" />
       <circle
@@ -118,7 +118,7 @@
          r="1.5"
          stroke="#f1f3f5"
          stroke-width="0.7 px"
-         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle9754"
          transform="scale(1,-1)" />
       <circle
@@ -127,7 +127,7 @@
          r="1.4633931"
          stroke="#f1f3f5"
          stroke-width="0.7 px"
-         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle9756"
          transform="scale(1,-1)" />
     </g>
@@ -141,38 +141,38 @@
            d="m 7.69444,232.87438 v 44.5 h 254 v -44.5 h -254"
            stroke="#f1f3f5"
            stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="Part__Part2DObjectPython_w0001"
            d="m 91.19444,237.37438 v 27.5 h 18 v -27.5 h -18"
            stroke="#f1f3f5"
            stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="Part__Part2DObjectPython_w0002"
            d="m 111.19444,246.37438 v 18.5 h 15.5 v -18.5 h -15.5"
            stroke="#f1f3f5"
            stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="Part__Part2DObjectPython_w0003"
            d="m 129.19444,249.87438 v 15 h 18 v -15 h -18"
            stroke="#f1f3f5"
            stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="Part__Part2DObjectPython_w0004"
            d="m 149.19444,249.87438 v 15 h 18 v -15 h -18"
            stroke="#f1f3f5"
            stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <circle
            cx="181.69444"
            cy="-260.87439"
            r="2.5"
            stroke="#f1f3f5"
            stroke-width="0.7 px"
-           style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="circle1"
            transform="scale(1,-1)" />
         <circle
@@ -181,7 +181,7 @@
            r="2.5"
            stroke="#f1f3f5"
            stroke-width="0.7 px"
-           style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="circle2"
            transform="scale(1,-1)" />
         <circle
@@ -190,7 +190,7 @@
            r="2.5"
            stroke="#f1f3f5"
            stroke-width="0.7 px"
-           style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="circle3-3"
            transform="scale(1,-1)" />
         <circle
@@ -199,7 +199,7 @@
            r="2.5"
            stroke="#f1f3f5"
            stroke-width="0.7 px"
-           style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="circle4"
            transform="scale(1,-1)" />
         <path
@@ -207,26 +207,26 @@
            d="m 42.69444,238.87438 v 13.5 h 19.5 v -13.5 h -19.5"
            stroke="#f1f3f5"
            stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="Part__Part2DObjectPython_w0010"
            d="m 25.19444,258.07438 a 1,1 0 0 0 0,2 h 54 a 1,1 0 0 0 0,-2 h -54"
            stroke="#f1f3f5"
            stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="Part__Part2DObjectPython_w0011"
            d="m 245.69444,259.12438 a 1.75,1.75 0 0 0 0,3.5 h 6 a 1.75,1.75 0 1 0 0,-3.5 h -6"
            stroke="#f1f3f5"
            stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <circle
            cx="20.694441"
            cy="-239.87437"
            r="1.5"
            stroke="#f1f3f5"
            stroke-width="0.7 px"
-           style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="circle5-6"
            transform="scale(1,-1)" />
         <circle
@@ -235,7 +235,7 @@
            r="1.5"
            stroke="#f1f3f5"
            stroke-width="0.7 px"
-           style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="circle6"
            transform="scale(1,-1)" />
         <circle
@@ -244,7 +244,7 @@
            r="1.5"
            stroke="#f1f3f5"
            stroke-width="0.7 px"
-           style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="circle7-7"
            transform="scale(1,-1)" />
         <circle
@@ -253,7 +253,7 @@
            r="1.5"
            stroke="#f1f3f5"
            stroke-width="0.7 px"
-           style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="circle8"
            transform="scale(1,-1)" />
       </g>

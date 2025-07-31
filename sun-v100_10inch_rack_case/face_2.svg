@@ -25,10 +25,10 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.33190922"
-     inkscape:cx="567.92637"
-     inkscape:cy="563.40707"
-     inkscape:window-width="1916"
-     inkscape:window-height="1173"
+     inkscape:cx="578.47143"
+     inkscape:cy="638.72887"
+     inkscape:window-width="1603"
+     inkscape:window-height="1053"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -47,14 +47,14 @@
          d="m 0.445,220.445 h 44.5 v -220 h -44.5 v 220"
          stroke="#f1f3f5"
          stroke-width="0.7 px"
-         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          cx="7.4450002"
          cy="-11.445007"
          r="1.5"
          stroke="#f1f3f5"
          stroke-width="0.7 px"
-         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle9750"
          transform="scale(1,-1)" />
       <circle
@@ -63,7 +63,7 @@
          r="1.5"
          stroke="#f1f3f5"
          stroke-width="0.7 px"
-         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle9752"
          transform="scale(1,-1)" />
       <circle
@@ -72,7 +72,7 @@
          r="1.5"
          stroke="#f1f3f5"
          stroke-width="0.7 px"
-         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle9754"
          transform="scale(1,-1)" />
       <circle
@@ -81,203 +81,9 @@
          r="1.4633931"
          stroke="#f1f3f5"
          stroke-width="0.7 px"
-         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle9756"
          transform="scale(1,-1)" />
-    </g>
-    <g
-       id="g32228"
-       transform="translate(2.6770668,257.11322)">
-      <g
-         id="g54688"
-         transform="translate(-0.16815003,-30.422701)">
-        <circle
-           cx="33.540001"
-           cy="-8.79"
-           r="1.75"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle20849"
-           transform="scale(1,-1)" />
-        <circle
-           cx="65.540001"
-           cy="-8.79"
-           r="1.75"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle20851"
-           transform="scale(1,-1)" />
-        <circle
-           cx="33.540001"
-           cy="-40.790001"
-           r="1.75"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle20853"
-           transform="scale(1,-1)" />
-        <circle
-           cx="65.540001"
-           cy="-40.790001"
-           r="1.75"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle20855"
-           transform="scale(1,-1)" />
-        <path
-           id="Part__Part2DObjectPython006_w0004"
-           d="m 68.241812,21.437059 a 19,19 0 0 0 -37.403612,10e-7 2,2 0 0 0 3.9372,0.70588 15,15 0 0 1 29.5292,0 2,2 0 1 0 3.9372,-0.70588"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           id="Part__Part2DObjectPython006_w0005"
-           d="m 62.047188,21.244545 a 13,13 0 0 0 -25.014388,5e-6 2.0000153,2.0000153 0 1 0 3.8484,1.0909 9,9 0 0 1 17.3176,0 2.0000153,2.0000153 0 1 0 3.8484,-1.0909"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           id="Part__Part2DObjectPython006_w0006"
-           d="m 55.14,20.59 a 7,7 0 0 0 -11.2,0 2,2 0 1 0 3.2,2.4 3,3 0 0 1 4.8,0 2,2 0 1 0 3.2,-2.4"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           id="Part__Part2DObjectPython006_w0007"
-           d="m 43.94,28.99 a 7,7 0 0 0 11.2,0 2,2 0 1 0 -3.2,-2.4 3,3 0 0 1 -4.8,0 2,2 0 1 0 -3.2,2.4"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           id="Part__Part2DObjectPython006_w0008"
-           d="m 37.032812,28.335454 a 13,13 0 0 0 25.014388,-4e-6 2.0000153,2.0000153 0 1 0 -3.8484,-1.0909 9,9 0 0 1 -17.3176,0 2.0000153,2.0000153 0 1 0 -3.8484,1.0909"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           id="Part__Part2DObjectPython006_w0009"
-           d="m 30.838188,28.142941 a 19,19 0 0 0 37.403612,-1e-6 2,2 0 1 0 -3.9372,-0.70588 15,15 0 0 1 -29.5292,0 2,2 0 1 0 -3.9372,0.70588"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           id="Part__Part2DObjectPython006_w0010"
-           d="m 256.54,2.54 h -254 v 44.5 h 254 V 2.54"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <circle
-           cx="11.277503"
-           cy="-8.915"
-           r="3.25"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle20864"
-           transform="scale(1,-1)" />
-        <circle
-           cx="11.277503"
-           cy="-40.665001"
-           r="3.25"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle20866"
-           transform="scale(1,-1)" />
-        <circle
-           cx="247.80249"
-           cy="-8.915"
-           r="3.25"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle20868"
-           transform="scale(1,-1)" />
-        <circle
-           cx="247.80249"
-           cy="-40.665001"
-           r="3.25"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle20870"
-           transform="scale(1,-1)" />
-        <circle
-           cx="193.53999"
-           cy="-8.79"
-           r="1.75"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle20872"
-           transform="scale(1,-1)" />
-        <circle
-           cx="225.53999"
-           cy="-8.79"
-           r="1.75"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle20874"
-           transform="scale(1,-1)" />
-        <circle
-           cx="193.53999"
-           cy="-40.790001"
-           r="1.75"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle20876"
-           transform="scale(1,-1)" />
-        <circle
-           cx="225.53999"
-           cy="-40.790001"
-           r="1.75"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle20878"
-           transform="scale(1,-1)" />
-        <path
-           id="Part__Part2DObjectPython006_w0019"
-           d="m 228.24181,21.437059 a 19,19 0 0 0 -37.40361,10e-7 2,2 0 0 0 3.9372,0.70588 15,15 0 0 1 29.5292,0 2,2 0 0 0 3.9372,-0.70588"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           id="Part__Part2DObjectPython006_w0020"
-           d="m 222.04719,21.244545 a 13,13 0 0 0 -25.01439,5e-6 2.0000153,2.0000153 0 0 0 3.8484,1.0909 9,9 0 0 1 17.3176,0 2.0000153,2.0000153 0 0 0 3.8484,-1.0909"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           id="Part__Part2DObjectPython006_w0021"
-           d="m 215.14,20.59 a 7,7 0 0 0 -11.2,0 2,2 0 1 0 3.2,2.4 3,3 0 0 1 4.8,0 2,2 0 1 0 3.2,-2.4"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           id="Part__Part2DObjectPython006_w0022"
-           d="m 203.94,28.99 a 7,7 0 0 0 11.2,0 2,2 0 1 0 -3.2,-2.4 3,3 0 0 1 -4.8,0 2,2 0 1 0 -3.2,2.4"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           id="Part__Part2DObjectPython006_w0023"
-           d="m 197.03281,28.335454 a 13,13 0 0 0 25.01439,-4e-6 2.0000153,2.0000153 0 0 0 -3.8484,-1.0909 9,9 0 0 1 -17.3176,0 2.0000153,2.0000153 0 0 0 -3.8484,1.0909"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           id="Part__Part2DObjectPython006_w0024"
-           d="m 190.83819,28.142941 a 19,19 0 0 0 37.40361,-1e-6 2,2 0 0 0 -3.9372,-0.70588 15,15 0 0 1 -29.5292,0 2,2 0 0 0 -3.9372,0.70588"
-           stroke="#f1f3f5"
-           stroke-width="0.7 px"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      </g>
     </g>
     <g
        id="g17363"
@@ -287,14 +93,14 @@
          d="m 6.99156,4.77015 v 220 h 250 v -220 h -250"
          stroke="#f1f3f5"
          stroke-width="0.7 px"
-         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          cx="17.99156"
          cy="-15.77015"
          r="1.5"
          stroke="#f1f3f5"
          stroke-width="0.7 px"
-         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle319"
          transform="scale(1,-1)" />
       <circle
@@ -303,7 +109,7 @@
          r="1.5"
          stroke="#f1f3f5"
          stroke-width="0.7 px"
-         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle321"
          transform="scale(1,-1)" />
       <circle
@@ -312,7 +118,7 @@
          r="1.5"
          stroke="#f1f3f5"
          stroke-width="0.7 px"
-         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle323"
          transform="scale(1,-1)" />
       <circle
@@ -321,8 +127,198 @@
          r="1.5"
          stroke="#f1f3f5"
          stroke-width="0.7 px"
-         style="fill:none;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle325"
+         transform="scale(1,-1)" />
+    </g>
+    <g
+       id="g29053"
+       transform="translate(-279.77052,-10.478238)">
+      <circle
+         cx="476.46893"
+         cy="-245.79091"
+         r="1.75"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle13075"
+         transform="scale(1,-1)" />
+      <circle
+         cx="508.46893"
+         cy="-245.79091"
+         r="1.75"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle13077"
+         transform="scale(1,-1)" />
+      <circle
+         cx="476.46893"
+         cy="-277.79092"
+         r="1.75"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle13079"
+         transform="scale(1,-1)" />
+      <circle
+         cx="508.46893"
+         cy="-277.79092"
+         r="1.75"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle13081"
+         transform="scale(1,-1)" />
+      <path
+         id="Part__Part2DObjectPython001_w0004"
+         d="m 509.41323,257.41592 a 17.5,17.5 0 0 0 -33.8886,0 1.5,1.5 0 0 0 2.9047,0.75 14.5,14.5 0 0 1 28.0792,0 1.5,1.5 0 0 0 2.9047,-0.75"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="Part__Part2DObjectPython001_w0005"
+         d="m 503.56407,257.21949 a 12,12 0 0 0 -22.19024,0 1.5,1.5 0 1 0 2.7737,1.14286 9,9 0 0 1 16.6428,0 1.5,1.5 0 0 0 2.7737,-1.14286"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="Part__Part2DObjectPython001_w0006"
+         d="m 496.36893,256.59092 a 6.5,6.5 0 0 0 -7.8,0 1.5,1.5 0 0 0 1.8,2.4 3.5,3.5 0 0 1 4.2,0 1.5,1.5 0 1 0 1.8,-2.4"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="Part__Part2DObjectPython001_w0007"
+         d="m 488.56893,266.99092 a 6.5,6.5 0 0 0 7.8,0 1.5,1.5 0 0 0 -1.8,-2.4 3.5,3.5 0 0 1 -4.2,0 1.5,1.5 0 1 0 -1.8,2.4"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="Part__Part2DObjectPython001_w0008"
+         d="m 481.37379,266.36235 a 12,12 0 0 0 22.19024,0 1.5,1.5 0 0 0 -2.7737,-1.14286 9,9 0 0 1 -16.6428,0 1.5,1.5 0 1 0 -2.7737,1.14286"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="Part__Part2DObjectPython001_w0009"
+         d="m 475.52463,266.16592 a 17.5,17.5 0 0 0 33.8886,0 1.5,1.5 0 0 0 -2.9047,-0.75 14.5,14.5 0 0 1 -28.0792,0 1.5,1.5 0 0 0 -2.9047,0.75"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         cx="316.46893"
+         cy="-245.79091"
+         r="1.75"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle13089"
+         transform="scale(1,-1)" />
+      <circle
+         cx="348.46893"
+         cy="-245.79091"
+         r="1.75"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle13091"
+         transform="scale(1,-1)" />
+      <circle
+         cx="316.46893"
+         cy="-277.79092"
+         r="1.75"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle13093"
+         transform="scale(1,-1)" />
+      <circle
+         cx="348.46893"
+         cy="-277.79092"
+         r="1.75"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle13095"
+         transform="scale(1,-1)" />
+      <path
+         id="Part__Part2DObjectPython001_w0014"
+         d="m 349.41323,257.41592 a 17.5,17.5 0 0 0 -33.8886,0 1.5,1.5 0 0 0 2.9047,0.75 14.5,14.5 0 0 1 28.0792,0 1.5,1.5 0 1 0 2.9047,-0.75"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="Part__Part2DObjectPython001_w0015"
+         d="m 343.56407,257.21949 a 12,12 0 0 0 -22.19024,0 1.5,1.5 0 0 0 2.7737,1.14286 9,9 0 0 1 16.6428,0 1.5,1.5 0 0 0 2.7737,-1.14286"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="Part__Part2DObjectPython001_w0016"
+         d="m 336.36893,256.59092 a 6.5,6.5 0 0 0 -7.8,0 1.5,1.5 0 1 0 1.8,2.4 3.5,3.5 0 0 1 4.2,0 1.5,1.5 0 1 0 1.8,-2.4"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="Part__Part2DObjectPython001_w0017"
+         d="m 328.56893,266.99092 a 6.5,6.5 0 0 0 7.8,0 1.5,1.5 0 0 0 -1.8,-2.4 3.5,3.5 0 0 1 -4.2,0 1.5,1.5 0 1 0 -1.8,2.4"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="Part__Part2DObjectPython001_w0018"
+         d="m 321.37379,266.36235 a 12,12 0 0 0 22.19024,0 1.5,1.5 0 0 0 -2.7737,-1.14286 9,9 0 0 1 -16.6428,0 1.5,1.5 0 0 0 -2.7737,1.14286"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="Part__Part2DObjectPython001_w0019"
+         d="m 315.52463,266.16592 a 17.5,17.5 0 0 0 33.8886,0 1.5,1.5 0 0 0 -2.9047,-0.75 14.5,14.5 0 0 1 -28.0792,0 1.5,1.5 0 1 0 -2.9047,0.75"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="Part__Part2DObjectPython001_w0020"
+         d="m 539.46893,239.54092 h -254 v 44.5 h 254 v -44.5"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         cx="294.20642"
+         cy="-245.91591"
+         r="3.25"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle13104"
+         transform="scale(1,-1)" />
+      <circle
+         cx="294.20642"
+         cy="-277.66592"
+         r="3.25"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle13106"
+         transform="scale(1,-1)" />
+      <circle
+         cx="530.73138"
+         cy="-245.91591"
+         r="3.25"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle13108"
+         transform="scale(1,-1)" />
+      <circle
+         cx="530.73138"
+         cy="-277.66592"
+         r="3.25"
+         stroke="#f1f3f5"
+         stroke-width="0.7 px"
+         style="fill:none;stroke:#ff0000;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle13110"
          transform="scale(1,-1)" />
     </g>
   </g>
