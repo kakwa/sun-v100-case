@@ -1,7 +1,9 @@
-# misc-3d-models
+# Miscellaneous 3D Models
 
-Misc 3D models from my projects
+Various 3D models from my projects built using Freecad.
 
 # License
 
-Misc 3D models © 2025 by kakwa is licensed under `CC BY-SA 4.0`. To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/).
+ 3D models © 2025 by kakwa is licensed under `CC BY-SA 4.0`.
+
+To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/).
