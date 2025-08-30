@@ -1,3 +1,5 @@
 *.FCBak
 .gitattributes
 machine
+*.d
+*.o
