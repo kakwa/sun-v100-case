@@ -3,3 +3,5 @@
 machine
 *.d
 *.o
+*.a
+ofwboot
