@@ -1,0 +1,3 @@
+[submodule "ofw-install-server"]
+	path = ofw-install-server
+	url = https://github.com/kakwa/ofw-install-server
