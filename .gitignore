@@ -2,6 +2,6 @@
 #.gitattributes
 #machine
 #*.d
-*.o
+#*.o
 #*.a
 #ofwboot
