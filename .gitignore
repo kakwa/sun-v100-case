@@ -1,7 +1,7 @@
-*.FCBak
-.gitattributes
-machine
-*.d
+#*.FCBak
+#.gitattributes
+#machine
+#*.d
 *.o
-*.a
-ofwboot
+#*.a
+#ofwboot
