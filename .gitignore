@@ -5,3 +5,5 @@ machine
 *.o
 *.a
 ofwboot
+bsd.rd
+ofwboot.net
