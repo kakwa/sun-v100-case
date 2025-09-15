@@ -1,20 +1,16 @@
-# My Silly Sun Server
+# SunFire V100 10 Inch Case
 
-This project gathers the assets I created to put an old Sun V100 to new use.
+![Sun V100 case](case.png)
 
-It contains the following assets:
+This repository contains the FreeCAD 3D models of a compact 10‑inch enclosure for a SunFire V100.
 
-* 3D models for a custom 10 inches case
-* Various bits of code, scripts & notes on how to install a modern OS onto this old tiny server
+## What's inside
 
-# Licenses
+* `sun-v100-10inch-case.FCStd` – main FreeCAD project/assembly
+* `parts/` – parametric part files (brackets, panels, air duct, bezel, standoffs, logo)
 
-## Case 3D models
+## License
 
 Sun v100 10 inch Case 3D model © 2025 by kakwa is licensed under `CC BY-SA 4.0`.
 
 To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/).
-
-## Scripts & Code Snippets
-
-The various scripts and code snippets are under the MIT License.
